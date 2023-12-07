@@ -2,9 +2,5 @@ body{
     background-image: url(pexels-기승-ki-19329504.png);
     background-size: 100%;
     background-repeat: no-repeat;
-}
-footer{
-    position: relative;
-    right: -60%;
-    top: 65%;
+    box-sizing: border-box;
 }
