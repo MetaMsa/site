@@ -1,1 +1,1 @@
-document.getElementById("merhaba").innerHTML="anan"
+document.getElementById("merhaba").innerHTML="anan";
