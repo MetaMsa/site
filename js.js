@@ -1,2 +1,1 @@
-var veri=document.getElementById("merhaba").innerHTML;
-veri=anan;
+document.getElementById("merhaba").innerHTML="anan";
