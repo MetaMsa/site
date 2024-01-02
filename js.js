@@ -1,5 +1,6 @@
 var merhaba="MERHABA",j=0;
-while(1)
+for(let i=0;i<7;i++)
 {
-    setTimeout(() => { document.getElementById("merhaba").innerHTML+=merhaba[j]; j++;if(j=6){j=0;}},8000) ;
+    document.getElementById("merhaba").innerHTML+=merhaba[j];
+    setTimeout({},8000) ;
 }
